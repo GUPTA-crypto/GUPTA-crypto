@@ -3,12 +3,12 @@
   <p align="center">
     <i
       ><img
-        src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"
+        src="https://slackmojis.com/emojis/55056-cyberghost/download"
         width="30px"
       />
       Hi, I'm Arhan
       <img
-        src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download"
+        src="https://slackmojis.com/emojis/55056-cyberghost/download"
         width="30px"
       />
     </i>
