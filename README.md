@@ -21,7 +21,7 @@
  ###📬 Take a look at my repository and get in touch!
  
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Kshitizprakash09/)](https://github.com/Kshitizprakash09/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitizprakash09/)](https://www.linkedin.com/in/kshitizprakash09)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/kshitizprakash09)](https://www.hackerrank.com/kshitizprakash09)
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42.svg?style=flat-square&logo=TryHackMe&logoColor=white&link=https:https://tryhackme.com/p/Gupta007/)](https://tryhackme.com/p/Gupta007)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15394710/kshitiz-prakash)](https://stackoverflow.com/users/15394710/kshitiz-prakash)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kshitizprakash09@gmail.com)](mailto:kshitizprakash09@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/kshitizprakash0907)](https://auth.geeksforgeeks.org/user/kshitizprakash0907)
