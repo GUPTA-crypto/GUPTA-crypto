@@ -44,7 +44,7 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)*** pursuin
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m recently worked on a ML Project which detected Fake News.
+- 🔭 I’ve recently worked on a ML Project which detected Fake News.
 - 🌱 I’m currently learning C++ ☕
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
