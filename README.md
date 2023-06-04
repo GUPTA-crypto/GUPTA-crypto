@@ -37,23 +37,22 @@
 </p>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)*** pursuing CSE. I'm a *Tech Enthusiast* passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)*** pursuing CSE with Specialization in Cyber Security and Digital Forensics. I'm a *Tech Enthusiast* passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on ML Project
-- 🌱 I’m currently learning Java ☕
+- 🔭 I’m recently worked on a ML Project which detected Fake News.
+- 🌱 I’m currently learning C++ ☕
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, CV, Raspi
+  -  Cyber Security
+  -  Digital Forensics
+  - 👯 I’m looking to collaborate on making cyber projects
+- 💬 Ask me about Python, Kali Linux
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
  
@@ -79,7 +78,7 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)*** pursuin
 
 
 ### 🚀 Quick Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshitizprakash09&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GUPTA-crypto&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>
