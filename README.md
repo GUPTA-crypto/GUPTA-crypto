@@ -27,7 +27,7 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/arhangupta11/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)](https://auth.geeksforgeeks.org/user/arhangupta11/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kshitizprakash9703?theme=nord&font=Baloo%20Tammudu%202&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/arhan_124?theme=nord&font=Baloo%20Tammudu%202&ext=activity)
 
 <p align = "right"> Wanna Connect? <br>
  <a href=https://www.flaticon.com/free-icon/github_2111432></a>
