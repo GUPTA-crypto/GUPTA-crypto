@@ -44,16 +44,17 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)*** pursuin
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’ve recently worked on a ML Project which detected Fake News.
-- 🌱 I’m currently learning C++ ☕
+- 🔭 I’ve recently worked on a ML Project which identified and analysed cyber threats.
+- 🌱 I’m currently learning Blockchain so that I can work on Blockchain based password manager. ☕
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
   -  Cyber Security
   -  Digital Forensics
+  -  FrontEnd Development
   - 👯 I’m looking to collaborate on making cyber projects
 - 💬 Ask me about Python, Kali Linux
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 🎉 Fun-Fact: I ❤️ Recent Technology and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
  
 
@@ -126,10 +127,8 @@ language badges:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/Nodejs-555555?style=flat&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
+
 
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
