@@ -53,7 +53,7 @@ I'm an *Undergrad Student🎓 [@VIT BHOPAL](https://vitbhopal.ac.in/)*** pursuin
   -  Cyber Security
   -  Digital Forensics
   -  FrontEnd Development
-  - 👯 I’m looking to collaborate on making cyber projects
+  -  I’m looking to collaborate on making cyber projects
 - 💬 Ask me about Python, Kali Linux
 - 🎉 Fun-Fact: I ❤️ Recent Technology and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
