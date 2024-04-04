@@ -25,7 +25,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/21914386/arhan-gupta)](https://stackoverflow.com/users/21914386/arhan-gupta)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arhan.gupt@gmail.com)](mailto:arhan.gupt@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/arhangupta11/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)](https://auth.geeksforgeeks.org/user/arhangupta11/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-d14836?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/arhan_124/)](https://leetcode.com/arhan_124/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFFEDE?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/arhan_124/)](https://leetcode.com/arhan_124/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/arhan_124?theme=nord&font=Baloo%20Tammudu%202&ext=activity)
 
