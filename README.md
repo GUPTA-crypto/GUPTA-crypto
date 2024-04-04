@@ -22,7 +22,7 @@
  
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/GUPTA-crypto)](https://github.com/GUPTA-crypto) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arhan-gupta-199932218/)](https://www.linkedin.com/in/arhan-gupta-199932218/)
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42.svg?style=flat-square&logo=TryHackMe&logoColor=white&link=https:https://tryhackme.com/p/Gupta007/)](https://tryhackme.com/p/Gupta007)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/21914386/arhan-gupta)](https://stackoverflow.com/users/21914386/arhan-gupta)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/21914386/arhan-gupta)](https://stackoverflow.com/users/21914386/arhan-gupta)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arhan.gupt@gmail.com)](mailto:arhan.gupt@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/arhangupta11/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)](https://auth.geeksforgeeks.org/user/arhangupta11/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
